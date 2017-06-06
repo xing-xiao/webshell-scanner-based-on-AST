@@ -98,3 +98,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# mac osx
+.DS_Store
+
+# train data
+train_set/
